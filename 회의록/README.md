@@ -1,2 +1,3 @@
-# Analysis-mini-project
-Analysis project in big data platform construction lecture
+# 회의록
+해당 회의 주제, 연구 내용, 성과, 특이사항(애로사항) 기술  
+프로젝트 전체의 시점에서 회의 내용 기술. 애로사항(스케쥴 준수 미흡, 기술적 애로사항 등)
