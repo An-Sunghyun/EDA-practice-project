@@ -1,2 +1,2 @@
-# Analysis-mini-project
-Analysis project in big data platform construction lecture
+# 업무 일지
+주차 별로 작성. 업무 제목, 내용, 진행 사항, 건의 사항, 문제점 기술, 성과
