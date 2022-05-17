@@ -1,2 +1,2 @@
-# Analysis-mini-project
-Analysis project in big data platform construction lecture
+# 연구 노트
+개인의 시점에서 연구 진행 사항, 향후 연구 주제, 문제점 및 애로사항 기술
